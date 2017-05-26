@@ -1,4 +1,4 @@
-# android-blog-post
+## android-blog-post
 收集阅读过的安卓相关的高质量博文
 
 
@@ -25,3 +25,37 @@
 [How to distribute your own Android library through jCenter and Maven Central from Android Studio](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)
 
 [Hiding Secrets in Android Apps](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/)
+
+# backup
+
+[Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
+
+[神奇的android:clipChildren属性](http://www.cnblogs.com/over140/p/3508335.html)
+
+[使用Retrofit、OKHttp和GSON](http://blog.jobbole.com/65170/)
+
+[深入浅出RxJava（一：基础篇）](http://blog.csdn.net/lzyzsd/article/details/41833541)
+
+[深入浅出RxJava(二：操作符)](http://blog.csdn.net/lzyzsd/article/details/44094895)
+
+[深入浅出RxJava三--响应式的好处](http://blog.csdn.net/lzyzsd/article/details/44891933)
+
+[深入浅出RxJava四-在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611)
+
+[Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+
+[高煥堂的四本Android开发新書(簡體完整版PDF)](http://www.apkbus.com/forum.php?mod=viewthread&tid=56810)
+
+[Android编程从程序员到架构师的高手之路-高焕堂Sundy（全部234课）](http://www.11wang.org/forum.php/thread-3884-1-1.html)
+
+[Android Button Maker](http://angrytools.com/android/button/)
+
+[那两年炼就的Android内功修养](http://blog.csdn.net/luoshengyang/article/details/8923485)
+
+
+
+[]()
+[]()
+[]()
+[]()
+[]()
