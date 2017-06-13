@@ -26,6 +26,8 @@
 
 [Hiding Secrets in Android Apps](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/)
 
+[无我编程的十条戒律](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program)
+
 # backup
 
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
