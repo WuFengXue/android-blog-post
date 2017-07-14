@@ -30,6 +30,8 @@
 
 [git在线官方书籍](https://git-scm.com/book/zh/v2/起步-关于版本控制)
 
+[Distraction-Free Reading for your Android app — Part I](https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175)
+
 # backup
 
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
