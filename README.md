@@ -32,6 +32,8 @@
 
 [Distraction-Free Reading for your Android app — Part I](https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175)
 
+[Using ResultReceiver to communicate with IntentService](https://proandroiddev.com/intentservice-and-resultreceiver-70de71e5e40a)
+
 # backup
 
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
