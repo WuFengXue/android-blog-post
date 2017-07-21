@@ -34,6 +34,8 @@
 
 [Using ResultReceiver to communicate with IntentService](https://proandroiddev.com/intentservice-and-resultreceiver-70de71e5e40a)
 
+[如何面试工程师？](http://www.infoq.com/cn/articles/how-to-interview-engineers)
+
 # backup
 
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
