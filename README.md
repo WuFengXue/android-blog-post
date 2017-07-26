@@ -36,6 +36,8 @@
 
 [如何面试工程师？](http://www.infoq.com/cn/articles/how-to-interview-engineers)
 
+[Android HttpDns：我的域名我做主](http://www.jianshu.com/p/ab52b400b36d)
+
 # backup
 
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
