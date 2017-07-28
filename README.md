@@ -38,6 +38,10 @@
 
 [Android HttpDns：我的域名我做主](http://www.jianshu.com/p/ab52b400b36d)
 
+# ui
+[Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
+
+
 # backup
 
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
