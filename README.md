@@ -38,6 +38,8 @@
 
 [Android HttpDns：我的域名我做主](http://www.jianshu.com/p/ab52b400b36d)
 
+[Android 高级混淆和代码保护技术](http://drakeet.me/android-advanced-proguard-and-security/)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
