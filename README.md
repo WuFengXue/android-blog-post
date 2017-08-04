@@ -40,6 +40,9 @@
 
 [Android 高级混淆和代码保护技术](http://drakeet.me/android-advanced-proguard-and-security/)
 
+# FRP
+[An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
