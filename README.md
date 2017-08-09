@@ -42,6 +42,8 @@
 
 [30+ Kickass Tools to Develop Android Apps Like a Pro](https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b)
 
+[Understanding Context In Android Application](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
