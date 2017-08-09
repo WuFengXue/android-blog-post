@@ -40,6 +40,8 @@
 
 [Android 高级混淆和代码保护技术](http://drakeet.me/android-advanced-proguard-and-security/)
 
+[30+ Kickass Tools to Develop Android Apps Like a Pro](https://blog.aritraroy.in/30-kickass-tools-to-develop-android-apps-like-a-pro-191e52b9419b)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
