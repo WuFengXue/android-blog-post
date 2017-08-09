@@ -45,6 +45,8 @@
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
+[The Essential RxJava Guide for Android Developers](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
