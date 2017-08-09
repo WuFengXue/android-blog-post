@@ -53,6 +53,8 @@
 # backend
 [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app)
 
+[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+
 # backup
 
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
