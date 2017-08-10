@@ -49,6 +49,8 @@
 
 [The Essential RxJava Guide for Android Developers](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
 
+[Learn RxJava](https://mindorks.com/course/learn-rxjava)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
