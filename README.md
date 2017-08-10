@@ -44,6 +44,8 @@
 
 [Understanding Context In Android Application](https://blog.mindorks.com/understanding-context-in-android-application-330913e32514)
 
+[Android Development Best Practices](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
