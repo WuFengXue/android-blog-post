@@ -46,6 +46,8 @@
 
 [Android Development Best Practices](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3)
 
+[Android 组件化 —— 路由设计最佳实践](http://www.jianshu.com/p/8a3eeeaf01e8)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
