@@ -48,6 +48,8 @@
 
 [Android 组件化 —— 路由设计最佳实践](http://www.jianshu.com/p/8a3eeeaf01e8)
 
+[Android TV开发总结（五）TV上屏幕适配总结](http://blog.csdn.net/hejjunlin/article/details/52886107)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
