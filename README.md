@@ -57,6 +57,8 @@
 
 [Learn RxJava](https://mindorks.com/course/learn-rxjava)
 
+[SOLID Android analytics with RxJava2](https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
