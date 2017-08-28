@@ -71,6 +71,8 @@
 
 # backup
 
+[58 同城 Android 端 HTTPS 实践之旅](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379049&idx=1&sn=76e2fccaad481a3e8b3ac2aa6efcecf9)
+
 [Android开发之GridView的Item放大缩小](http://blog.csdn.net/gaosunqiong/article/details/39371401)
 
 [神奇的android:clipChildren属性](http://www.cnblogs.com/over140/p/3508335.html)
