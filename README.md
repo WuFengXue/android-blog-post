@@ -71,9 +71,9 @@
 
 # backup
 
-[Android 中基于物理特性的动画简介](https://zhuanlan.zhihu.com/p/28239508)
-
 [58 同城 Android 端 HTTPS 实践之旅](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379049&idx=1&sn=76e2fccaad481a3e8b3ac2aa6efcecf9)
+
+[动态图片技术 — 历史、格式与性能](https://mp.weixin.qq.com/s/nl8SXjEycRTMfa2aMzmxSg)
 
 [Android 中基于物理特性的动画简介](https://zhuanlan.zhihu.com/p/28239508)
 
