@@ -61,6 +61,9 @@
 
 [Time for non-Time Lords – Part 1](https://blog.stylingandroid.com/time-for-non-time-lords-part-1/#comment-82546)
 
+# culture
+[Dreamix: Why Is Company Culture So Important?](https://dreamix.eu/blog/dreamix/dreamix-why-is-company-culture-so-important)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
