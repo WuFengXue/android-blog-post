@@ -4,6 +4,8 @@
 
 [图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
 
+[安卓自定义View教程](http://www.gcssloop.com/customview/CustomViewIndex/)
+
 [国内Top500Android应用分析报告](https://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112527&idx=1&sn=b23c1b5f3e32e343ad96d705bd4d63ff&scene=1&srcid=0711SVtLTxYXurfDvMqW2LJi&key=77421cf58af4a6539e507304f3ba7258db54cc7d09d0da0d4d384e54aa5536776c95d86cfb4e18a26e41586ef17e83bd&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=ITDgY8jmrXUfwFXFF5dIXjjUGT%2Bjosrkf8JctrkEiM3n%2F5PmuQjtbzHuMvPqa8Qq)
 
 [Retrofit 2 — Upgrade Guide from 1.9](https://futurestud.io/tutorials/retrofit-2-upgrade-guide-from-1-9)
