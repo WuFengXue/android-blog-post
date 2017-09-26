@@ -50,6 +50,8 @@
 
 [Android TV开发总结（五）TV上屏幕适配总结](http://blog.csdn.net/hejjunlin/article/details/52886107)
 
+[Android Dagger (2.10/2.11) Butterknife MVP](https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
