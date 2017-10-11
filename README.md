@@ -78,6 +78,9 @@
 
 [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 
+# https
+[Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
+
 # backup
 
 [58 同城 Android 端 HTTPS 实践之旅](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379049&idx=1&sn=76e2fccaad481a3e8b3ac2aa6efcecf9)
