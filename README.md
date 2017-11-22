@@ -73,6 +73,8 @@
 
 [ 一个绚丽的loading动效分析与实现！](http://blog.csdn.net/tianjian4592/article/details/44538605)
 
+[From design to android, part 1](https://saulmm.github.io/from-design-to-android-part1)
+
 # backend
 [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app)
 
