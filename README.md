@@ -63,6 +63,8 @@
 
 [SOLID Android analytics with RxJava2](https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9)
 
+[在Andoid中如何使用RxJava 2进行多线程编程？](http://www.infoq.com/cn/articles/multi-threading-in-android-with-rxjava-2)
+
 [Time for non-Time Lords – Part 1](https://blog.stylingandroid.com/time-for-non-time-lords-part-1/#comment-82546)
 
 # culture
