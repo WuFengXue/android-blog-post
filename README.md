@@ -73,6 +73,8 @@
 # culture
 [Dreamix: Why Is Company Culture So Important?](https://dreamix.eu/blog/dreamix/dreamix-why-is-company-culture-so-important)
 
+[技术人员的发展之路](https://coolshell.cn/articles/17583.html)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
