@@ -54,6 +54,9 @@
 
 [Android Dagger (2.10/2.11) Butterknife MVP](https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd)
 
+# architecture
+[微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/mYT3IAoPZjv76yQKb6JQXg)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
