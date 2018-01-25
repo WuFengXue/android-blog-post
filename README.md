@@ -57,6 +57,8 @@
 # architecture
 [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/mYT3IAoPZjv76yQKb6JQXg)
 
+[从分层复用到自动化测试，看美团客户端架构的演变](http://www.infoq.com/cn/articles/meituan-client-architecture)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
