@@ -84,6 +84,8 @@
 
 [From design to android, part 1](https://saulmm.github.io/from-design-to-android-part1)
 
+[我们是如何实现漂亮动画的－列车飞驰的加载动画](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0918/6618.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # backend
 [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app)
 
