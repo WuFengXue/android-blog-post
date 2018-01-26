@@ -59,6 +59,8 @@
 
 [从分层复用到自动化测试，看美团客户端架构的演变](http://www.infoq.com/cn/articles/meituan-client-architecture)
 
+[Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
