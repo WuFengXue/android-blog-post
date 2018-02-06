@@ -61,6 +61,8 @@
 
 [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
+[Engineering Smart && Building Dumb: Building an Android Thin-Client at OkCupid](https://tech.okcupid.com/engineering-an-android-thin-client/)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
