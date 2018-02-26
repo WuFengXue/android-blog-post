@@ -76,6 +76,10 @@
 
 [Time for non-Time Lords – Part 1](https://blog.stylingandroid.com/time-for-non-time-lords-part-1/#comment-82546)
 
+[RxJava - Flowables - What, when and how to use it?](http://www.aanandshekharroy.com/articles/2018-01/rxjava-flowables)
+
+[使用RxJava 提升用户体验](https://www.jianshu.com/p/33c548bce571)
+
 # culture
 [Dreamix: Why Is Company Culture So Important?](https://dreamix.eu/blog/dreamix/dreamix-why-is-company-culture-so-important)
 
