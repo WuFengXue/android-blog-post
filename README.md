@@ -63,6 +63,8 @@
 
 [Engineering Smart && Building Dumb: Building an Android Thin-Client at OkCupid](https://tech.okcupid.com/engineering-an-android-thin-client/)
 
+[A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
