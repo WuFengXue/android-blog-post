@@ -99,6 +99,15 @@
 
 [我们是如何实现漂亮动画的－列车飞驰的加载动画](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0918/6618.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+# adb
+[ADB over Wifi](https://medium.com/@filipe.batista/adb-over-wifi-3d50ab80813)
+
+[ADB Commands — Part I](https://medium.com/@filipe.batista/adb-commands-part-i-60d35e9d8515)
+
+[ADB Commands — Part II](https://medium.com/@filipe.batista/adb-commands-part-ii-71f429759fdd)
+
+[ADB Commands — Part III](https://proandroiddev.com/adb-commands-part-iii-997f97c03546)
+
 # backend
 [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app)
 
