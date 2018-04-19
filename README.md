@@ -28,8 +28,6 @@
 
 [Hiding Secrets in Android Apps](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/)
 
-[无我编程的十条戒律](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program)
-
 [git在线官方书籍](https://git-scm.com/book/zh/v2/起步-关于版本控制)
 
 [Distraction-Free Reading for your Android app — Part I](https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175)
@@ -86,6 +84,10 @@
 [使用RxJava 提升用户体验](https://www.jianshu.com/p/33c548bce571)
 
 # culture
+[无我编程的十条戒律](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program)
+
+[敏捷软件开发宣言](http://agilemanifesto.org/iso/zhchs/manifesto.html)
+
 [Dreamix: Why Is Company Culture So Important?](https://dreamix.eu/blog/dreamix/dreamix-why-is-company-culture-so-important)
 
 [技术人员的发展之路](https://coolshell.cn/articles/17583.html)
