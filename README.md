@@ -55,6 +55,8 @@
 
 [在阿里，我们如何管理代码分支？](https://mp.weixin.qq.com/s/JsBX3UPgZL_HUOTCIopr_A)
 
+[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+
 # framework
 [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
 
