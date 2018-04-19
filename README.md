@@ -28,8 +28,6 @@
 
 [Hiding Secrets in Android Apps](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/)
 
-[git在线官方书籍](https://git-scm.com/book/zh/v2/起步-关于版本控制)
-
 [Distraction-Free Reading for your Android app — Part I](https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175)
 
 [Using ResultReceiver to communicate with IntentService](https://proandroiddev.com/intentservice-and-resultreceiver-70de71e5e40a)
@@ -51,6 +49,11 @@
 [Android TV开发总结（五）TV上屏幕适配总结](http://blog.csdn.net/hejjunlin/article/details/52886107)
 
 [Android Dagger (2.10/2.11) Butterknife MVP](https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd)
+
+# git
+[git在线官方书籍](https://git-scm.com/book/zh/v2/起步-关于版本控制)
+
+[在阿里，我们如何管理代码分支？](https://mp.weixin.qq.com/s/JsBX3UPgZL_HUOTCIopr_A)
 
 # framework
 [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
