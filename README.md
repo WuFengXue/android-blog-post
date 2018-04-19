@@ -59,6 +59,8 @@
 
 [Git Flow / A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
+[What is Trunk-Based Development?](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
+
 # framework
 [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
 
