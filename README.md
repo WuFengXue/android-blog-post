@@ -57,6 +57,8 @@
 
 [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
+[Git Flow / A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
 # framework
 [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
 
