@@ -101,6 +101,8 @@
 
 [技术人员的发展之路](https://coolshell.cn/articles/17583.html)
 
+[天天写「业务代码」，如何成为「技术大牛」？](http://www.infoq.com/cn/articles/how-to-become-tech-master)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
