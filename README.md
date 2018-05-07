@@ -103,6 +103,9 @@
 
 [天天写「业务代码」，如何成为「技术大牛」？](http://www.infoq.com/cn/articles/how-to-become-tech-master)
 
+# Java
+[Java Tutorials](http://tutorials.jenkov.com)
+
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 
