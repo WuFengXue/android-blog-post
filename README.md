@@ -78,6 +78,8 @@
 
 [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 
+[架构师必须知道的架构设计原则](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650998170&idx=1&sn=6defd4f0a9fdb5cf93e6977080c61c70)
+
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
 
