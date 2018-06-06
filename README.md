@@ -67,6 +67,8 @@
 
 [图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
 
+[Android的16ms和垂直同步以及三重缓存](http://dandanlove.com/2018/04/13/android-16ms/)
+
 # architecture
 [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/mYT3IAoPZjv76yQKb6JQXg)
 
