@@ -110,6 +110,8 @@
 
 [天天写「业务代码」，如何成为「技术大牛」？](http://www.infoq.com/cn/articles/how-to-become-tech-master)
 
+[都去炒AI和大数据了，落地的事儿谁来做？](http://www.infoq.com/cn/articles/how-do-we-fail-data-product)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
