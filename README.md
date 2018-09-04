@@ -62,6 +62,8 @@
 # tutorial
 [Understand Android Activity's launchMode: standard, singleTop, singleTask and singleInstance](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
 
+[如何编写bash自动补全脚本](http://www.infoq.com/cn/articles/bash-programmable-completion-tutorial)
+
 # framework
 [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
 
