@@ -64,6 +64,8 @@
 
 [如何编写bash自动补全脚本](http://www.infoq.com/cn/articles/bash-programmable-completion-tutorial)
 
+[Muselee 1: Library Versions](https://blog.stylingandroid.com/muselee-library-versions/)
+
 # framework
 [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
 
