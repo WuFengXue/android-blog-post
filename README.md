@@ -116,6 +116,8 @@
 
 [都去炒AI和大数据了，落地的事儿谁来做？](http://www.infoq.com/cn/articles/how-do-we-fail-data-product)
 
+[程序员，不要急于学习编程语言，先学会如何解决问题](https://www.infoq.cn/article/kRRB*FUJpRivjME95aCe)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
