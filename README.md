@@ -118,6 +118,8 @@
 
 [程序员，不要急于学习编程语言，先学会如何解决问题](https://www.infoq.cn/article/kRRB*FUJpRivjME95aCe)
 
+[老板总有新主意：我是怎么拖垮一家价值十亿美元的大数据公司的](https://www.infoq.cn/article/1tcSBGsKCdly-RhAJzWK)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
