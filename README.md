@@ -104,7 +104,7 @@
 [使用RxJava 提升用户体验](https://www.jianshu.com/p/33c548bce571)
 
 # culture
-[无我编程的十条戒律](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program)
+[无我编程的十条戒律](https://www.infoq.cn/article/2017/06/10-Commandments-without-program)
 
 [敏捷软件开发宣言](http://agilemanifesto.org/iso/zhchs/manifesto.html)
 
