@@ -122,6 +122,8 @@
 
 [老板总有新主意：我是怎么拖垮一家价值十亿美元的大数据公司的](https://www.infoq.cn/article/1tcSBGsKCdly-RhAJzWK)
 
+[到底该如何合情合理的拒绝offer？这篇文章颠覆了我的认知](https://baijiahao.baidu.com/s?id=1591257090328228694&wfr=spider&for=pc)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
