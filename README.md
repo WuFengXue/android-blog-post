@@ -124,6 +124,8 @@
 
 [到底该如何合情合理的拒绝offer？这篇文章颠覆了我的认知](https://baijiahao.baidu.com/s?id=1591257090328228694&wfr=spider&for=pc)
 
+[Etsy 前 CTO：如何快速成长为一名 “成熟的工程师” ？](https://www.infoq.cn/article/FMQVSem1oUSOuKlj3zFK)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
