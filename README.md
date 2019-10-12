@@ -126,6 +126,8 @@
 
 [Etsy 前 CTO：如何快速成长为一名 “成熟的工程师” ？](https://www.infoq.cn/article/FMQVSem1oUSOuKlj3zFK)
 
+[从价值出发，技术管理痛点的正解](https://www.infoq.cn/article/HUAJQd3AsUF9zAcUWlDZ)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
