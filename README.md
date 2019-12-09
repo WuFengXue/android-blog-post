@@ -2,7 +2,6 @@
 收集阅读过的安卓相关的高质量博文
 
 
-[安卓自定义View教程](http://www.gcssloop.com/customview/CustomViewIndex/)
 
 [国内Top500Android应用分析报告](https://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112527&idx=1&sn=b23c1b5f3e32e343ad96d705bd4d63ff&scene=1&srcid=0711SVtLTxYXurfDvMqW2LJi&key=77421cf58af4a6539e507304f3ba7258db54cc7d09d0da0d4d384e54aa5536776c95d86cfb4e18a26e41586ef17e83bd&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=ITDgY8jmrXUfwFXFF5dIXjjUGT%2Bjosrkf8JctrkEiM3n%2F5PmuQjtbzHuMvPqa8Qq)
 
@@ -13,10 +12,6 @@
 [Android进程保活招式大全](http://dev.qq.com/topic/57ac4a0ea374c75371c08ce8)
 
 [美团Android DEX自动拆包及动态加载简介](http://tech.meituan.com/mt-android-auto-split-dex.html)
-
-[JavaSE6Tutorial](https://github.com/JustinSDK/JavaSE6Tutorial/blob/master/docs/CH16.md)
-
-[如何构建Android MVVM 应用框架](https://zhuanlan.zhihu.com/p/23772285?from=groupmessage)
 
 [逆向札记-利用IDA简单过so签名校验](逆向札记-利用IDA简单过so签名校验)
 
@@ -29,8 +24,6 @@
 [Distraction-Free Reading for your Android app — Part I](https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175)
 
 [Using ResultReceiver to communicate with IntentService](https://proandroiddev.com/intentservice-and-resultreceiver-70de71e5e40a)
-
-[如何面试工程师？](http://www.infoq.com/cn/articles/how-to-interview-engineers)
 
 [Android HttpDns：我的域名我做主](http://www.jianshu.com/p/ab52b400b36d)
 
@@ -72,6 +65,8 @@
 [图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
 
 [Android的16ms和垂直同步以及三重缓存](http://dandanlove.com/2018/04/13/android-16ms/)
+
+[如何构建Android MVVM 应用框架](https://zhuanlan.zhihu.com/p/23772285?from=groupmessage)
 
 # architecture
 [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/mYT3IAoPZjv76yQKb6JQXg)
@@ -128,8 +123,12 @@
 
 [从价值出发，技术管理痛点的正解](https://www.infoq.cn/article/HUAJQd3AsUF9zAcUWlDZ)
 
+[如何面试工程师？](http://www.infoq.com/cn/articles/how-to-interview-engineers)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
+
+[JavaSE6Tutorial](https://github.com/JustinSDK/JavaSE6Tutorial/blob/master/docs/CH16.md)
 
 # ui
 [Using SnapHelper in RecyclerView](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
@@ -139,6 +138,8 @@
 [From design to android, part 1](https://saulmm.github.io/from-design-to-android-part1)
 
 [我们是如何实现漂亮动画的－列车飞驰的加载动画](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0918/6618.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[安卓自定义View教程](http://www.gcssloop.com/customview/CustomViewIndex/)
 
 # adb
 [ADB over Wifi](https://medium.com/@filipe.batista/adb-over-wifi-3d50ab80813)
