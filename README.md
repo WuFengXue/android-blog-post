@@ -125,6 +125,8 @@
 
 [如何面试工程师？](http://www.infoq.com/cn/articles/how-to-interview-engineers)
 
+[面试时究竟在问些什么 (完)](http://blog.zhaiyifan.cn/2019/01/25/when-i-talk-about-interview/)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
@@ -190,10 +192,3 @@
 
 [那两年炼就的Android内功修养](http://blog.csdn.net/luoshengyang/article/details/8923485)
 
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
