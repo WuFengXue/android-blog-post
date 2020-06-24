@@ -127,6 +127,8 @@
 
 [面试时究竟在问些什么 (完)](http://blog.zhaiyifan.cn/2019/01/25/when-i-talk-about-interview/)
 
+[震惊！生产力提效 300% 的秘诀全公开](https://juejin.im/post/5ec0d6b4f265da7b950569a9)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
