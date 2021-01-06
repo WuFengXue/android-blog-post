@@ -69,6 +69,8 @@
 [如何构建Android MVVM 应用框架](https://zhuanlan.zhihu.com/p/23772285?from=groupmessage)
 
 # architecture
+[[译] 构建 Android APP 一定要绕过的 30 个坑](https://zhuanlan.zhihu.com/p/23658467)
+
 [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/mYT3IAoPZjv76yQKb6JQXg)
 
 [从分层复用到自动化测试，看美团客户端架构的演变](http://www.infoq.com/cn/articles/meituan-client-architecture)
