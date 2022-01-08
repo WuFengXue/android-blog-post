@@ -66,9 +66,9 @@
 
 [Android的16ms和垂直同步以及三重缓存](http://dandanlove.com/2018/04/13/android-16ms/)
 
-[如何构建Android MVVM 应用框架](https://zhuanlan.zhihu.com/p/23772285?from=groupmessage)
-
 # architecture
+[MVC，MVP 和 MVVM 模式如何选择？](https://www.jianshu.com/p/6a86f7fdc0cb)
+
 [[译] 构建 Android APP 一定要绕过的 30 个坑](https://zhuanlan.zhihu.com/p/23658467)
 
 [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/mYT3IAoPZjv76yQKb6JQXg)
@@ -82,6 +82,8 @@
 [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 
 [架构师必须知道的架构设计原则](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650998170&idx=1&sn=6defd4f0a9fdb5cf93e6977080c61c70)
+
+[如何构建Android MVVM 应用框架](https://zhuanlan.zhihu.com/p/23772285?from=groupmessage)
 
 # FRP
 [An Introduction to Functional Reactive Programming](http://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/)
