@@ -85,6 +85,8 @@
 
 [敏捷软件开发宣言](http://agilemanifesto.org/iso/zhchs/manifesto.html)
 
+[十年编程经历杂谈](https://www.infoq.cn/article/mBooHWbbweY5bKUlkZkO?utm_source=related_read&utm_medium=article)
+
 [Dreamix: Why Is Company Culture So Important?](https://dreamix.eu/blog/dreamix/dreamix-why-is-company-culture-so-important)
 
 [技术人员的发展之路](https://coolshell.cn/articles/17583.html)
