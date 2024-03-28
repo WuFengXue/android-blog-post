@@ -111,6 +111,8 @@
 
 [震惊！生产力提效 300% 的秘诀全公开](https://juejin.im/post/5ec0d6b4f265da7b950569a9)
 
+[独立黑客成长手册](https://yishulun.com/docs/indiehacker-handbook.html)
+
 # Java
 [Java Tutorials](http://tutorials.jenkov.com)
 
@@ -203,3 +205,4 @@
 [Android Development Best Practices](https://blog.mindorks.com/android-development-best-practices-83c94b027fd3)
 
 [Android TV开发总结（五）TV上屏幕适配总结](http://blog.csdn.net/hejjunlin/article/details/52886107)
+
